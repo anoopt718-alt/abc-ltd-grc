@@ -5,7 +5,7 @@ This repository shows a simple, realistic GRC flow for **ABC Ltd**:
 
 ## Quick links
 - 📂 **Risk Register:** [/risk](./risk)
-- 📂 **Controls Mapping (NIST 800-53):** [/risk/controls](./controls)
+- 📂 **Controls Mapping (NIST 800-53):** [/controls](./rsik/controls)
 - 📂 **Policies:** [/policies](./policies)
 
 ## How to read this
