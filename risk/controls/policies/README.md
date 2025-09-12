@@ -1,12 +1,12 @@
 # Policies 📚 (ABC Ltd)
 
-Plain-English rules that make our program real.  
-Policies will **mention Risk IDs** for context.  
+Clear, enforceable and written rules that ABC Ltd. can apply to manage risk and meet its obligations and most importantly protect the confidentiality, integrity and availability of systems and data.
+Policies will **mention Risk IDs** for context. 
+
 No direct control mapping needed.
 
 ---
 
 ## 🔗 Quick links
 - Risks → [/risk](../risk)
-- Controls (FYI only) → [/controls](../risk/controls)
 - Template → [/policies/_templates/POLICY_TEMPLATE.md](./_templates/POLICY_TEMPLATE.md)
