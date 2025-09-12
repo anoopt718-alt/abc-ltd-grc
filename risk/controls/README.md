@@ -1,8 +1,14 @@
-# NIST 800-53 Controls Mapping (ABC Ltd)
+# Controls Mapping 🛡️ (ABC Ltd)
 
-- File: **ABC_ControlsMapping.xlsx**
+- 📄 File: **ABC_ControlsMapping.xlsx**
 
-## What’s inside
-- Links each **Risk ID** to one or more **NIST 800-53 control IDs** (e.g., AC-2, AC-6, IA-2).
-- Notes which policies will enforce those controls.
+## 📋 What’s inside
+- 🔗 **Mapping:** Links each Risk ID to one or more NIST 800-53 control IDs
+- 📊 **Coverage:** Focused on key control families relevant to ABC Ltd
+- 📝 **Traceability:** Each control connects back to risks and forward to policies
+
+
+## 🔗 How it connects
+- Risks live in [/risk](../risk)  
+- Policies live in [/policies](../policies)
 
