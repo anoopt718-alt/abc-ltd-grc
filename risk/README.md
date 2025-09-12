@@ -1,6 +1,6 @@
 # Risk Register (ABC Ltd)
 
-- File: **ABC_RiskRegister.xlsx**
+- File: **ABC-RiskRegister.xlsx**
 
 ## What’s inside
 - **Identification:** business context + threats (retail-style assumptions or your own)
