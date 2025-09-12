@@ -8,5 +8,5 @@ No direct control mapping needed.
 
 ## 🔗 Quick links
 - Risks → [/risk](../risk)
-- Controls (FYI only) → [/controls](..risk/controls)
+- Controls (FYI only) → [/controls](../risk/controls)
 - Template → [/policies/_templates/POLICY_TEMPLATE.md](./_templates/POLICY_TEMPLATE.md)
