@@ -1,12 +1,13 @@
-# Policies 📚 (ABC Ltd)
+ 📜 Policies (ABC Ltd)
 
-Clear, enforceable and written rules that ABC Ltd. can apply to manage risk and meet its obligations and most importantly protect the confidentiality, integrity and availability of systems and data.
-Policies will **mention Risk IDs** for context. 
+This folder contains organizational policies designed to support risk management and compliance.  
+Policies here are:
 
-No direct control mapping needed.
+- ✍️ **Simple & Clear** – Written in plain, easy-to-understand language.  
+- ✅ **Enforceable** – Practical and realistic to follow across the company.  
+- 📖 **Guiding** – Provide direction through well-defined procedures.  
+- 🛡 **Aligned** – Support the risks identified in the Risk Register and the controls mapped from NIST 800-53.  
 
----
 
-## 🔗 Quick links
-- Risks → [/risk](../risk)
-- Template → [/policies/_templates/POLICY_TEMPLATE.md](./_templates/POLICY_TEMPLATE.md)
+
+👉 These policies are **short, practical, and enforceable**, making them useful for both management and employees.
