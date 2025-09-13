@@ -9,7 +9,7 @@ This repository shows a simple, realistic GRC flow for **ABC Ltd**—easy to ski
 ## 🔗 Quick links
 - 📂 **Risk Register:** [/risk](./risk)
 - 📂 **Controls Mapping (NIST 800-53):** [/controls](./risk/controls)
-- 📂 **Policies:** [/policies](./controls/policies)
+- 📂 **Policies:** [/policies](./risk/controls/policies)
 
 ---
 
