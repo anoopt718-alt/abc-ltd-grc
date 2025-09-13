@@ -1,4 +1,4 @@
-# ABC Ltd — End-to-End GRC (Portfolio) 🔒
+# ABC Ltd End-to-End GRC (Portfolio) 🔒
 
 This repository shows a simple, realistic GRC flow for **ABC Ltd**—easy to skim, traceable, and hiring-manager friendly.
 
