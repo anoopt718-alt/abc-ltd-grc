@@ -9,6 +9,6 @@
 
 
 ## 🔗 How it connects
-- Risks live in [/risk](./risk)  
-- Policies live in [/policies](./policies)
+- Risks live in [/risk](.../risk)  
+- Policies live in [/policies](.../policies)
 
