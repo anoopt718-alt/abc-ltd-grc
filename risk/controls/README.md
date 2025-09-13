@@ -9,6 +9,6 @@
 
 
 ## 🔗 How it connects
-- Risks live in [/risk](./main/risk)  
+- Risks live in [/risk](https://github.com/anoopt718-alt/abc-ltd-grc/tree/main/risk)  
 - Policies live in [/policies](./main/risk/policies)
 
