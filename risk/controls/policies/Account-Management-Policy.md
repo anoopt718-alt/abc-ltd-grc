@@ -30,7 +30,8 @@ All tablets used in the ABC Ltd. shall have an authentication mechanism to unloc
 ## 📌 Non-Compliance
 Any Individual that this policy applies to are required to follow the policy. Non-compliance to the policy will result in appropriate management-guided sanctions.
 
-## 📌 Management Commitment: This polcy is supported and approved by CISO of ABC Ltd.
+## 📌 Management Commitment: 
+This polcy is supported and approved by CISO of ABC Ltd.
 
 ## 📌 Review Schedule
 This policy shall be reviewed and updated in accordance with the management defined frequency and disseminated to all applicable users when update occurs.
