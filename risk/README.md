@@ -4,7 +4,7 @@ This folder contains the official **Risk Register** for ABC Ltd.
 
 ## What’s Inside
 - **ABC_RiskRegister.csv**  
-- Optional download: [Excel version](../ABC-RiskRegister.xlsx
+- Optional download: [Excel version]~> ABC-RiskRegister.xlsx
 
 ## 📋 What’s inside
 - 🧭 **Identification:** business context + threats
