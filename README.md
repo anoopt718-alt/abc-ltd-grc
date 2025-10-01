@@ -1,6 +1,6 @@
 # ABC Ltd End-to-End GRC (Portfolio) 🔒
 
-This repository shows a simple, realistic GRC flow for **ABC Ltd**—easy to skim, traceable, and hiring-manager friendly.
+This repository shows a simple, realistic GRC flow for **ABC Ltd**
 
 > 📈 **Flow:** Risk Register 📊 → Controls Mapping (NIST 800-53) 🛡️ → Policies 📚
 
