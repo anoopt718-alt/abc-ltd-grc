@@ -1,6 +1,7 @@
 # ABC Ltd End-to-End GRC (Portfolio) 🔒
 
 This repository demonstrates a realistic, beginner-friendly Governance, Risk, and Compliance (GRC) workflow for **ABC Ltd**, a fictional **mid-sized retail company**.  
+
 ABC Ltd handles **sensitive customer data** (payments, loyalty information, and employee records). Like many growing businesses, they face threats such as **payment fraud, insider misuse of data, and system downtime**.  
 
 To address these challenges, this project follows a **structured GRC approach**
