@@ -1,7 +1,7 @@
 # Information System Backup Policy (CP-9)  
 
 **Policy ID:** P-006  
-**Related Risk(s):**   
+**Related Risk(s):** OSB-010 and OSB-014
 **Owner:** Anoop K  
 **Last Reviewed:** 2025-10-02  
 
