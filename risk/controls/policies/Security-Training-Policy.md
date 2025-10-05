@@ -1,7 +1,7 @@
 # Security Awareness and Training Policy  
 
 **Policy ID:** P-003  
-**Related Risk(s):**   
+**Related Risk(s):**OSB- 1,5 and 15**
 **Owner:** Anoop K  
 **Last Reviewed:** 2025-10-02  
 
