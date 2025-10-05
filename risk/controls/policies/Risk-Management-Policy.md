@@ -1,7 +1,7 @@
 # Risk Assessment Policy  
 
 **Policy ID:** P-002  
-**Related Risk(s):** OSB-13, 16, 17 and 18
+**Related Risk(s):** OSB-013,016,017 and 018
    
 **Owner:** Anoop K  
 **Last Reviewed:** 2025-10-02  
