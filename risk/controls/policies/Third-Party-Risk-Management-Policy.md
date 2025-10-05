@@ -1,7 +1,7 @@
 # Third-Party Risk Management (TPRM) Policy  
 
 **Policy ID:** P-005  
-**Related Risk(s):**   
+**Related Risk(s):** OSB-004  
 **Owner:** Anoop K  
 **Last Reviewed:** 2025-10-02  
 
